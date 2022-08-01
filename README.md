@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="./assets/header-container.png"/>
+<img src="./header.png"/>
 <!--
 **alexandermoralesp/alexandermoralesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
